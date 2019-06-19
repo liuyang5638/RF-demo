@@ -2,7 +2,7 @@
 Library           Selenium2Library
 
 *** Test Cases ***
-浦银CRM登录
+后台管理系统登录
     Open Browser    http://47.97.18.42:3505/py_manager/admin/console    Chrome
     Maximize Browser Window    #窗口最大化
     input Text    name=username    admin    #输入用户
